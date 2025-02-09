@@ -1,99 +1,79 @@
-# [Project Name] 🎯
+# Reverse Pomodoro Timer 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Sparklx
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Azya A - College of Engineering Perumon
+- Member 2: Afiya R - College of Engineering Perumon
+- Member 3: Bathisha A - College of Engineerin Perumon
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://reverse-pomodoro-timer-fb9e-git-main-afiyas-projects.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+The Reverse Pomodoro iTimer is a fun productivity tool that encourages relaxation by flipping the traditionl Pomodoro technique.Instead of 25 minutes of work followed by 5-minutes brake,this timer gives you 25-minutes break and only 5-minutes work sessions!
+It's a procrastination app.
+It also includes a space where we can enter the task. 
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Traditional pomodoro techniques emphasize work first,then rest,which may not be suitable for people who struggle with motivation or prefer a more relaxed approach.
+Many individuals find it difficult to get started on tasks,leading to procrastination.They may feel burned out or demotivated by strict work-first routines
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+To address the challenge of procrastination,burnout,and strict work schedules,The Reverse Pomodoro Timer provides a fun and light hearted approach to productivity by prioritizing breaks over work.
+User starts the timer with a simple Start button.
+The timer begins with a 25-minutes break ,allowing users to relax first before work.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS,JavaScript(JS),Markdown(.md)
+- Visual Studio Code (VS Code),Live Server(VS Code Extension),Google chrome
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Processor:intel core i5,RAM:8GB,OS:Windows11,Browser:Google chrome,Brave
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Install a code editor-Visual Studio code
+Install Git 
+Clone the project
+Install Live Server
 
 # Run
-[commands]
+
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
+![Screenshot (15)](https://github.com/user-attachments/assets/ffc620d4-eed2-467b-a3e8-d411a3e1cd17)
+-Final out look
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
+![Screenshot (14)](https://github.com/user-attachments/assets/7e832b22-aa86-41d7-b25b-e6ef509434e7)
+-cascading style sheets
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Screenshot (4)](https://github.com/user-attachments/assets/8c254375-70d0-401e-8b2b-1a5946198952)
+-HTML 
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Screenshot (8)](https://github.com/user-attachments/assets/6e04f3ae-470f-4d76-96ed-24a15f2ee6d1)
+-javascript
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+#Final Product
+![Screenshot (3)](https://github.com/user-attachments/assets/3cc4def9-442d-4e9c-b058-62e3554ea829)
+-This timer helps us study for 5 minutes and rest for 25 minutes!
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Azya A: Idea,HTML Coding,javascript
+- Afiya R: css ,error correction
+- Bathisha A: javascript,css
 
 ---
 Made with ❤️ at TinkerHub
